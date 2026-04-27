@@ -1,0 +1,6 @@
+# Python Dependencies
+fastapi
+httpx
+pydantic
+python-dotenv
+# Additional dependencies can be added here.
